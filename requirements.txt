@@ -3,6 +3,6 @@ scipy
 matplotlib
 pandas
 opencv-python
-tensorflow==1.13.1
+tensorflow==1.15.0
 keras>=2.1
 jupyter
